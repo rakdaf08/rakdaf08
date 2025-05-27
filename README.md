@@ -51,15 +51,6 @@
 
 ---
 
-## 💼 What I’m Working On
-
-- 🔧 A **TCP over UDP protocol** using `asyncio` and custom headers  
-- 🧠 A smart **CV matching system** with `KMP`, `BM`, `Levenshtein`, and keyword extraction  
-- 📁 A custom **EXT2 filesystem** written in C  
-- 📚 Exploring systems, networking, and distributed design  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
