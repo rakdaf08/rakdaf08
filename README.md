@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 
 ## 📫 Let's Connect
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/rakadaffa/)
+- LinkedIn: [Raka Daffa](https://www.linkedin.com/in/rakadaffa/)
 - Email: raka.daffa2005@gmail.com
 
 Thanks for stopping by! 😊
