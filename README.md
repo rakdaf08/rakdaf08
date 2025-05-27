@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rakdaf08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakddaf08&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakdaf08&layout=compact&theme=tokyonight)
 
 ---
 
