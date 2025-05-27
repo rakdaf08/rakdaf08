@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Rakdaf
 
 Welcome to my GitHub profile! I'm a passionate software developer, tech enthusiast, and lifelong learner. I love building things, solving complex problems, and contributing to meaningful projects.
 
