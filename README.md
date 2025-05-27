@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**rakdaf08/rakdaf08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer, tech enthusiast, and lifelong learner. I love building things, solving complex problems, and contributing to meaningful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, Java, C, JavaScript
+- **Frameworks & Libraries**: React, Tailwind CSS, Node.js
+- **Databases**: MySQL, MariaDB
+- **Tools & Platforms**: Git, Docker, Linux, VSCode, Figma
+- **Other**: REST APIs, Web Scraping, Machine Learning, Networking Protocols
+
+---
+
+## 💡 What I'm Working On
+
+- 🔧 Building robust networking protocols using Python asyncio
+- 🧠 Creating intelligent search systems using NLP and classic algorithms (KMP, BM, Levenshtein)
+- 📁 Developing a custom EXT2 filesystem with low-level C
+- 🎓 Continuously learning new technologies and contributing to open-source
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/rakadaffa/)
+- Email: raka.daffa2005@gmail.com
+
+Thanks for stopping by! 😊
