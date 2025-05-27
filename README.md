@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=rakdaf08&label=Profile%20views&color=0e75b6&style=flat" alt="rakdaf08" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="programmer at work" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -22,7 +26,7 @@
 ### 👨‍💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
@@ -34,6 +38,7 @@
 ### 🧰 Tools & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
@@ -48,10 +53,10 @@
 
 ## 💼 What I’m Working On
 
-- 🔧 A **TCP over UDP protocol** using `asyncio` and custom headers
-- 🧠 A smart **CV matching system** with `KMP`, `BM`, `Levenshtein`, and keyword extraction
-- 📁 A custom **EXT2 filesystem** written in C
-- 📚 Exploring systems, networking, and distributed design
+- 🔧 A **TCP over UDP protocol** using `asyncio` and custom headers  
+- 🧠 A smart **CV matching system** with `KMP`, `BM`, `Levenshtein`, and keyword extraction  
+- 📁 A custom **EXT2 filesystem** written in C  
+- 📚 Exploring systems, networking, and distributed design  
 
 ---
 
