@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, C, JavaScript
+- **Languages**: Python, Java, C, JavaScript, C++, Golang
 - **Frameworks & Libraries**: React, Tailwind CSS, Node.js
 - **Databases**: MySQL, MariaDB
 - **Tools & Platforms**: Git, Docker, Linux, VSCode, Figma
