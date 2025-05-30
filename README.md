@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 🎓 I'm a developer passionate about systems programming, networks, and full-stack web development.  
-🧪 I love exploring how things work under the hood, from building TCP protocols to writing my own EXT2 filesystem.  
+🧪 I love exploring how things work under the hood, and under the tree.  
 🧠 Always improving, always learning!
 
 ---
