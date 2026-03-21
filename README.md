@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Computer Science Student @ ITB • 🤖 Machine Learning Engineer • 📊 Data Scientist
+  🚀 Computer Science Student @ ITB • 🤖 AI and Machine Learning Enthusiast • 📊 Data Science Enthusiast
 </p>
 
 <p align="center">
@@ -14,15 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science student at **Institut Teknologi Bandung (ITB)** with a strong foundation in **Machine Learning, Data Science, and Software Engineering**.  
-
-💡 I specialize in building **end-to-end machine learning systems**, from data preprocessing and feature engineering to model development and evaluation. My work focuses on delivering **robust, reproducible, and scalable solutions** to real-world problems.  
-
-📊 Experienced in:
-- Developing ML models (Decision Tree, Logistic Regression, SVM, CV models)
-- Handling **imbalanced datasets & feature engineering**
-- Applying **CRISP-DM methodology** for structured data science workflows  
-- Ensuring **model reliability with cross-validation & benchmarking**
+🎓 Computer Science student at **Institut Teknologi Bandung (ITB)** with a strong foundation in **AI, Machine Learning, and Data Science**.  
 
 ⚙️ Beyond technical work, I have led engineering teams and built **centralized systems for large-scale campus events**, combining technical execution with strong project management.
 
