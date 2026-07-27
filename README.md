@@ -1,73 +1,86 @@
-<h1 align="center">
-  Hi there! 👋 I'm <span style="color:#00ADB5">Raka Daffa Iftikhaar</span>
-</h1>
+<h1 align="center">Raka Daffa Iftikhaar</h1>
 
 <p align="center">
-  🚀 Computer Science Student @ ITB • 🤖 AI and Machine Learning Enthusiast • 📊 Data Science Enthusiast
+  AI Engineer &nbsp;·&nbsp; Computer Science, Institut Teknologi Bandung
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakdaf08&label=Profile%20views&color=0e75b6&style=flat" alt="rakdaf08" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 Computer Science student at **Institut Teknologi Bandung (ITB)** with a strong foundation in **AI, Machine Learning, and Data Science**.  
-
-⚙️ Beyond technical work, I have led engineering teams and built **centralized systems for large-scale campus events**, combining technical execution with strong project management.
-
-🌱 Always learning, iterating, and building impactful solutions.
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML & Data
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <a href="https://rakadaffa.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rakadaffa">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:raka.daffa2005@gmail.com">Email</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### About
+
+Computer Science student at Institut Teknologi Bandung (GPA 3.70/4.00), focused on applied AI and data science. My work centres on building systems where the model is only part of the problem — the rest is reliable data pipelines, honest evaluation, and translating results into decisions that non-technical stakeholders can act on.
+
+Currently an AI Software Engineer Intern at **Asuransi Kredit Indonesia (Askrindo)**, working on retrieval-augmented search over enterprise legal documents.
+
+---
+
+### Experience
+
+**AI Software Engineer Intern** · Asuransi Kredit Indonesia (Askrindo) · *Jun 2026 – Aug 2026*
+
+Built an enterprise semantic search engine for the company's legal management platform using retrieval-augmented generation, vector databases, and text embeddings for context-aware document retrieval. Delivered AI-powered features into an internal insurance management application used by Relation Managers, and worked across business, legal, and engineering teams to turn requirements into deployable solutions.
+
+**AI Engineer** · UMKaMu · *Feb 2026 – Mar 2026*
+
+Developed a commodity price forecasting and decision support system using machine learning and time-series analysis. Built scalable pipelines spanning data collection, preprocessing, feature engineering, and automated training, then applied model tuning and interpretability techniques to surface actionable market insight.
+
+**Data Scientist** · Climate & Agriculture Predictive Modeling · *Sep 2025 – Oct 2025*
+
+Engineered features capturing environmental and agricultural patterns for temperature prediction. Structured the workflow around CRISP-DM and validated multiple models through rigorous cross-validation to control overfitting.
+
+---
+
+### Technical Skills
+
+| | |
+|---|---|
+| **Languages** | Python, SQL, C, C++, Java, JavaScript |
+| **Machine Learning** | PyTorch, TensorFlow, scikit-learn, time-series forecasting, feature engineering |
+| **AI Systems** | Retrieval-augmented generation, vector databases, text embeddings, LangChain |
+| **Data** | Pandas, NumPy, PostgreSQL, ETL pipelines, CRISP-DM |
+| **Engineering** | FastAPI, Docker, Git, Jupyter |
+
+---
+
+### Recognition
+
+| | |
+|---|---|
+| **1st Place** | UNITY 2026 — Data Mining Competition |
+| **1st Place** | INFEST 2026 — Data Science Competition |
+| **2nd Place** | GAMMAFEST 2026 — Data Science Competition |
+| **Semifinalist** | Ganesha Business Festival 2026 — International Business Case Competition |
+| **Top 15** | FIND IT! 2026 — Hackathon |
+
+---
+
+### Leadership
+
+**Vice Head of Intracampus Relations** · Himpunan Mahasiswa Informatika (HMIF) ITB · *May 2025 – Mar 2026*
+Led intracampus partnership initiatives and coordinated joint programmes with student associations and university stakeholders.
+
+**Head of IT** · Olimpiade KM XII ITB · *Aug 2024 – Mar 2025*
+Led a 12-person development team building a centralised information platform for a three-month, faculty-wide competition, including real-time schedules, live scores, and leaderboards.
+
+---
+
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakdaf08&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakdaf08&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakdaf08&show_icons=true&hide_border=true&theme=transparent&count_private=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakdaf08&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:raka.daffa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rakadaffa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  <sub>Open to AI/ML engineering and data science opportunities.</sub>
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
