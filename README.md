@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raka 👋</h1>
+<h1 align="center">Hi, I'm Rakdaf 👋</h1>
 
 <p align="center">
   AI Engineer · CS @ Institut Teknologi Bandung
