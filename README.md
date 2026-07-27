@@ -62,15 +62,6 @@ I build AI systems where the model is only half the work — the other half is p
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakdaf08&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakdaf08&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="150"/>
-</p>
-
----
-
 <p align="center">
   <sub>Open to AI/ML engineering and data science roles ✨</sub>
 </p>
