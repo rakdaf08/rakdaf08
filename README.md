@@ -5,9 +5,6 @@
 
 I'm an AI engineer and Informatics student at Institut Teknologi Bandung. I work with machine learning and language models, mostly on problems that come up in everyday work.
 
-**Now:** building RAG-based semantic search over enterprise legal documents at Askrindo.<br>
-**Before:** shipped a commodity price forecasting system end to end, from data collection to automated training.
-
 [Portfolio](https://rakadaffa.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rakadaffa) · [Email](mailto:raka.daffa2005@gmail.com)
 
 ## Selected work
