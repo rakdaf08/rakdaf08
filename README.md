@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Raka Daffa Iftikhaar. I build AI solutions for everyday work." src="assets/banner-light.png">
+  <img alt="Raka Daffa Iftikhaar. Building AI solutions for everyday work." src="assets/banner-light.png">
 </picture>
 
 I'm an AI engineer and Informatics student at Institut Teknologi Bandung. I take AI features from idea to something people can use: the data, the model, the evaluation, and the app around it.
